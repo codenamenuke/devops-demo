@@ -1,1 +1,3 @@
 file 1 content
+file 1 content has been updated.
+file 1 is now 3 lines.
